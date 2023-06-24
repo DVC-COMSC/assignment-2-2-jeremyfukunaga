@@ -2,7 +2,7 @@ def main():
     """
     ##################################################
     # Comlete your code here
-    Use the same variables: celcius fahrenheit 
+    Use the same variables: celsius fahrenheit 
     ##################################################
     """
     celsius = float(input("Enter temperature in Celsius: "))
